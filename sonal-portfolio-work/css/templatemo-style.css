@@ -635,16 +635,12 @@ a#logo {
   visibility: hidden;
   position: absolute;
   margin-bottom: 0px;
-  scrollbar-width: thin;
-  scrollbar-color: rgb(124, 194, 244);
 }
 .portfolio-item:hover .thumb-inner p {
   position: relative;
   opacity: 1;
   visibility: visible;
   color: #4a4a4a;
-  overflow: scroll;
-  scroll-behavior: smooth;
 }
 .portfolio-item:hover .thumb-inner {
   border-radius: 10px;
